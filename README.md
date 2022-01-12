@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [gcloud-node-server](https://github.com/MartynHorslen/gcloud-node-server)
 
-- 🌱 I’m currently studying a course on **'Back-End Engineer' on Codecademy.com** ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
+- 🌱 I’m currently studying a **'Back-End Engineer'** course on **Codecademy.com** ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
 
 - 📫 How to reach me: **martynhorslen (at) gmail.com**
 
