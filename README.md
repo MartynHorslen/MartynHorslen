@@ -21,7 +21,9 @@ I took this project as an opportunity to challenge myself to use a few skills I 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:martynhorslen@gmail.com" target="blank"><img align="center" src="[https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" /></a>
+<a href="mailto:martynhorslen@gmail.com" target="blank">
+ <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>
  <a href="https://www.linkedin.com/in/martyn-horslen/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/martynhorslen" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
