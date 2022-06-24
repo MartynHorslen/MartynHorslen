@@ -7,6 +7,12 @@
 
 - :notebook: I’ve recently paused study on a **'Back-End Engineer'** course on **Codecademy.com** to focus on the aforementioned training. I plan to return and complete this at a future date. ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
 
+- :chart_with_upwards_trend: My portfolio can be found [here](https://martyn-horslen.netmatters-scs.co.uk/)
+
+- :office: Seeking my first junior role. 
+
+- 📫 How to reach me: **martynhorslen (at) gmail.com**
+
 **Completed Projects:**<br />
 :heavy_check_mark: [Netmatters Reflection](https://github.com/MartynHorslen/Netmatters) - This started as a HTML & Sass recreation of the Netmatters homepage. After studying JavaScript & jQuery, this project was updated to include a sticky header, animated sidebar and an image carousel/slider. <br />
 The latest update introduced PHP & SQL on a new contacts page which provided serverside validation before entering a contact form into a MySQL database. The contacts page also included a JavaScript map plugin. All three projects were completed to a high standard before the deadlines.
@@ -17,7 +23,6 @@ The latest update introduced PHP & SQL on a new contacts page which provided ser
 I took this project as an opportunity to challenge myself to use a few skills I hadn't used in the previous projects and to push my creativity to create a project that might stand out from others on the Scion Coalition Scheme. First was the use of the CSS Grid - I had previously used Flexbox. Secondly, I wanted to explore jQuery animations further. Finally I tested jQuery's AJAX methods thoroughly until I understood them.
 <br /><br />
 
-- 📫 How to reach me: **martynhorslen (at) gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
