@@ -15,7 +15,7 @@
 
 **Completed Projects:**<br />
 :heavy_check_mark: [Netmatters Reflection](https://github.com/MartynHorslen/Netmatters) - This started as a HTML & Sass recreation of the Netmatters homepage. After studying JavaScript & jQuery, this project was updated to include a sticky header, animated sidebar and an image carousel/slider. <br />
-The latest update introduced PHP & SQL on a new contacts page which provided serverside validation before entering a contact form into a MySQL database. The contacts page also included a JavaScript map plugin. All three projects were completed to a high standard before the deadlines.
+The latest update introduced PHP & SQL on a new contacts page which provided server-side validation before entering a contact form into a MySQL database. The contacts page also included a JavaScript map plugin. All three projects were completed to a high standard before the deadlines.
 
 :heavy_check_mark: [Portfolio Project](https://github.com/MartynHorslen/Portfolio) - My portfolio was my second project of my Netmatters training and was updated in sync with the Netmatters Reflection as I have progressed my skills.
 
