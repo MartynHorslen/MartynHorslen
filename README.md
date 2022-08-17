@@ -19,7 +19,7 @@ The latest update introduced PHP & SQL on a new contacts page which provided ser
 
 :heavy_check_mark: [Portfolio Project](https://github.com/MartynHorslen/Portfolio) - My portfolio was my second project of my Netmatters training and was updated in sync with the Netmatters Reflection as I have progressed my skills.
 
-:heavy_check_mark: [JavaScript Array Project](https://github.com/MartynHorslen/image-search) - This project was to fetch JSON data from a third party API and create an application that would allow a user to store an image. The application was to also return stored images back to the user on request, sorted by the email address they were stored by. <br />
+:heavy_check_mark: [JavaScript Array Project](https://github.com/MartynHorslen/js-array) - This project was to fetch JSON data from a third party API and create an application that would allow a user to store an image. The application was to also return stored images back to the user on request, sorted by the email address they were stored by. <br />
 I took this project as an opportunity to challenge myself to use a few skills I hadn't used in the previous projects and to push my creativity to create a project that might stand out from others on the Scion Coalition Scheme. First was the use of the CSS Grid - I had previously used Flexbox. Secondly, I wanted to explore jQuery animations further. Finally I tested jQuery's AJAX methods thoroughly until I understood them.
 <br /><br />
 
