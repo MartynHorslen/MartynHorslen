@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Martyn</h1>
 <h3 align="center">I am a passionate Full Stack Web Developer.</h3>
 
-- :computer: I’m currently working on [Laravel Dashboard](https://github.com/MartynHorslen/laravel-dashboard).
+- :computer: I’m currently working on Junior Tasks for [Netmatters](https://www.netmatters.co.uk).
 
-- :green_book: I am training with [Netmatters](https://www.netmatters.co.uk/train-for-a-career-in-tech) as a Web Developer on their Scion Coalition Scheme. I am currently studying the Laravel framework. I am also aligned with a development team within Netmatters where I am gaining valuable client testing experience - and soon to be carrying out Junior Developer tasks. 
+- :green_book: I have completed training with Netmatters as a Web Developer on their [Scion Coalition Scheme](https://www.netmatters.co.uk/train-for-a-career-in-tech) and was due to start employment until the company set a freeze on hiring. I have focussed on gaining skills in Laravel (PHP) and Vue (JavaScript).
 
 - :notebook: I’ve recently paused study on a **'Back-End Engineer'** course on **Codecademy.com** to focus on the aforementioned training. I plan to return and complete this at a future date. ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
 
-- :chart_with_upwards_trend: My portfolio can be found [here](https://martyn-horslen.netmatters-scs.co.uk/)
+- :chart_with_upwards_trend: My portfolio can be found [here](https://martyn-horslen.netmatters-scs.co.uk/).
 
 - :office: Seeking my first junior role. 
 
@@ -21,6 +21,13 @@ The latest update introduced PHP & SQL on a new contacts page which provided ser
 
 :heavy_check_mark: [JavaScript Array Project](https://github.com/MartynHorslen/js-array) - This project was to fetch JSON data from a third party API and create an application that would allow a user to store an image. The application was to also return stored images back to the user on request, sorted by the email address they were stored by. <br />
 I took this project as an opportunity to challenge myself to use a few skills I hadn't used in the previous projects and to push my creativity to create a project that might stand out from others on the Scion Coalition Scheme. First was the use of the CSS Grid - I had previously used Flexbox. Secondly, I wanted to explore jQuery animations further. Finally I tested jQuery's AJAX methods thoroughly until I understood them.
+
+:heavy_check_mark: [Laravel Dashboard](https://github.com/MartynHorslen/Laravel-Dashboard) - This project was to build an admin dashboard full of companies and their employees.
+
+:heavy_check_mark: [Vue SPA](https://github.com/MartynHorslen/Vue-SPA) - This project was to build a single page application using API data.  
+
+Incompleted Projects:
+[Quote Builder](https://github.com/MartynHorslen/quote-builder) - This project combined Laravel and Vue to build a quotation builder that emails clients their quotes and runs a report each day for quotes created in the last 24 hours. This project was put on hold due to starting Junior work experience with a team at Netmatters.
 <br /><br />
 
 
