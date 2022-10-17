@@ -26,7 +26,7 @@ I took this project as an opportunity to challenge myself to use a few skills I 
 
 :heavy_check_mark: [Vue SPA](https://github.com/MartynHorslen/Vue-SPA) - This project was to build a single page application using API data.  
 
-Incompleted Projects:
+**Incompleted Projects:** <br />
 [Quote Builder](https://github.com/MartynHorslen/quote-builder) - This project combined Laravel and Vue to build a quotation builder that emails clients their quotes and runs a report each day for quotes created in the last 24 hours. This project was put on hold due to starting Junior work experience with a team at Netmatters.
 <br /><br />
 
