@@ -58,4 +58,4 @@ I took this project as an opportunity to challenge myself to use a few skills I 
  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
-Last updated: October 17th, 2022
+Last updated: April 4th, 2024
