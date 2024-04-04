@@ -55,3 +55,5 @@ I took this project as an opportunity to challenge myself to use a few skills I 
  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+
+Last updated: October 17th, 2022
