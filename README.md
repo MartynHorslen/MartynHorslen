@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Martyn</h1>
 <h3 align="center">I am a passionate Full Stack Web Developer.</h3>
 
-- :computer: I’m currently working on Junior Tasks for [Netmatters](https://www.netmatters.co.uk).
+- :computer: I am currently working as a full stack developer (Vue 3 Options API, Tailwind & .NET) for [Buttercups Training Ltd](https://www.buttercupstraining.co.uk/) since November 2022.
 
-- :green_book: I have completed training with Netmatters as a Web Developer on their [Scion Coalition Scheme](https://www.netmatters.co.uk/train-for-a-career-in-tech) and was due to start employment until the company set a freeze on hiring. I have focussed on gaining skills in Laravel (PHP) and Vue (JavaScript).
+- :green_book: I have completed training with Netmatters as a Web Developer on their [Scion Coalition Scheme](https://www.netmatters.co.uk/train-for-a-career-in-tech). I focussed on gaining skills in Laravel (PHP) and Vue (JavaScript).
 
-- :notebook: I’ve recently paused study on a **'Back-End Engineer'** course on **Codecademy.com** to focus on the aforementioned training. I plan to return and complete this at a future date. ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
+<!-- - :notebook: I’ve recently paused study on a **'Back-End Engineer'** course on **Codecademy.com** to focus on the aforementioned training. I plan to return and complete this at a future date. ([Codecademy Profile](https://www.codecademy.com/profiles/martynhorslen))
 
 - :chart_with_upwards_trend: My portfolio can be found [here](https://martyn-horslen.netmatters-scs.co.uk/).
 
-- :office: Seeking my first junior role. 
+- :office: Seeking my first junior role.  -->
 
 - 📫 How to reach me: **martynhorslen (at) gmail.com**
 
-**Completed Projects:**<br />
+**Completed Projects (Netmatters Training):**<br />
 :heavy_check_mark: [Netmatters Reflection](https://github.com/MartynHorslen/Netmatters) - This started as a HTML & Sass recreation of the Netmatters homepage. After studying JavaScript & jQuery, this project was updated to include a sticky header, animated sidebar and an image carousel/slider. <br />
 The latest update introduced PHP & SQL on a new contacts page which provided server-side validation before entering a contact form into a MySQL database. The contacts page also included a JavaScript map plugin. All three projects were completed to a high standard before the deadlines.
 
@@ -54,6 +54,8 @@ I took this project as an opportunity to challenge myself to use a few skills I 
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+ <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </p>
 
 Last updated: October 17th, 2022
